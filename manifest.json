@@ -1,0 +1,17 @@
+{
+  "name": "JEBAT FIT Calorie Tracker",
+  "short_name": "JEBAT FIT",
+  "description": "Log pemakanan, kalori, makro dan berat badan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
